@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.jpeg
+*.png
+*.mp4
+config.py
